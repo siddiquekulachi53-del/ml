@@ -1,2 +1,1 @@
-# ml
-my first ai model
+# first-ml
